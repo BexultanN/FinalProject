@@ -16,3 +16,6 @@ Record the presentation of your work for 4-7 minutes.
 Attach .pbix files and your presentation and the video. you can attach link to google drive or git.
 
 Email me with your questions.
+
+
+LINK TO VIDEO PRESENTATION https://drive.google.com/file/d/1ZGEXdKoRXjRLG-EW7nM9m2CtQeCoPf2R/view?usp=sharing
